@@ -1,0 +1,17 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Other temporary files
+*.cache
+*.log
+*.db
+*.db-wal
+*.db-shm
+*.pdb
+*.vsidx

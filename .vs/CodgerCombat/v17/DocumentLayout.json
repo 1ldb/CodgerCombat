@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\",
+  "WorkspaceRootPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|c:\\users\\lorenzo dalberto\\source\\repos\\codgercombat\\codgercombat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|c:\\users\\lorenzo dalberto\\source\\repos\\codgercombat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|c:\\users\\lorenzo dalberto\\source\\repos\\codgercombat\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|solutionrelative:displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|c:\\users\\lorenzo dalberto\\source\\repos\\codgercombat\\elderlyhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404E5318-F92A-4CB2-8525-087761B96BA9}|CodgerCombat.csproj|solutionrelative:elderlyhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\DisplayHelper.cs",
+              "RelativeDocumentMoniker": "DisplayHelper.cs",
+              "ToolTip": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\DisplayHelper.cs",
+              "RelativeToolTip": "DisplayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:40:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElderlyHero.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\ElderlyHero.cs",
+              "RelativeDocumentMoniker": "ElderlyHero.cs",
+              "ToolTip": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\ElderlyHero.cs",
+              "RelativeToolTip": "ElderlyHero.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:09:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\Program.cs",
+              "ToolTip": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T14:24:16.978Z",
               "EditorCaption": ""

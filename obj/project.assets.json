@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\CodgerCombat.csproj",
+      "projectUniqueName": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat.csproj",
       "projectName": "CodgerCombat",
-      "projectPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\CodgerCombat.csproj",
+      "projectPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat.csproj",
       "packagesPath": "C:\\Users\\lorenzo dalberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\CodgerCombat\\obj\\",
+      "outputPath": "C:\\Users\\lorenzo dalberto\\source\\repos\\CodgerCombat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
